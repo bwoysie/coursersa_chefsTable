@@ -1,0 +1,5 @@
+source is not a powershell command - you cannot use it. Instead, 
+use the powershell script that venv provides:
+*** use this command below to run your venv ***
+*** projects is the name of your project ***
+ .\projects\Scripts\activate
